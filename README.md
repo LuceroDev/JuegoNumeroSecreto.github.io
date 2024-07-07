@@ -29,7 +29,8 @@ Este es un juego simple del número secreto desarrollado con JavaScript como par
 
 ## Demo
 
-Puedes probar una demostración en vivo del juego [aquí](link-to-demo).
+Puedes probar una demostración en vivo del juego [aquí](https://lucr0.github.io/JuegoNumeroSecreto.github.io/).
+
 
 
 ## Autor
